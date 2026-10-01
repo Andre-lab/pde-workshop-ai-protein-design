@@ -11,7 +11,7 @@ This workshop guides the participants through the use of pyrosetta to filter and
 |-- LICENSE
 | EnzDesPractical
   |-- Instructions
-  |-- Notebooks
+  |-- PyRosetta Notebooks
     |-- Task 1 - ThreadSequence.ipynb
     |   Design binders with RFdiffusion3 + LigandMPNN/solMPNN + ColabFold.
     |   Screens by ipTM, pLDDT, binder RMSD. Produces a ZIP of designs.
