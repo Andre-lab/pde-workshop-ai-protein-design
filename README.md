@@ -7,28 +7,27 @@ This workshop guides the participants through the use of pyrosetta to filter and
 ## Repository Structure
 
 ```
-EnzyDesPractical/
-|
 |-- README.md                        <-- This file
 |-- LICENSE
-|-- Instructions
-|
-|-- Task 1 - ThreadSequence.ipynb
-|   Design binders with RFdiffusion3 + LigandMPNN/solMPNN + ColabFold.
-|   Screens by ipTM, pLDDT, binder RMSD. Produces a ZIP of designs.
-|   
-|-- Task 2 - FastRelax comparison.ipynb
-|
-|-- Task 3 - AnalyzeLigandbinding.ipynb
-|
-|--- Task4 - Energy and structural metrics.ipynb
-|
-|--- Task5 - RunFastDesign.ipynb
-|
-|--- Task 6 - ddGcalculator.ipynb
-|
-|--- Bonus task: - Task 7 - Interfaceanalysis.ipynb
-|
+| EnzDesPractical
+  |-- Instructions
+  |-- Notebooks
+    |-- Task 1 - ThreadSequence.ipynb
+    |   Design binders with RFdiffusion3 + LigandMPNN/solMPNN + ColabFold.
+    |   Screens by ipTM, pLDDT, binder RMSD. Produces a ZIP of designs.
+    |   
+    |-- Task 2 - FastRelax comparison.ipynb
+    |
+    |-- Task 3 - AnalyzeLigandbinding.ipynb
+    |
+    |--- Task4 - Energy and structural metrics.ipynb
+    |
+    |--- Task5 - RunFastDesign.ipynb
+    |
+    |--- Task 6 - ddGcalculator.ipynb
+    |
+    |--- Bonus task: - Task 7 - Interfaceanalysis.ipynb
+    |
 ```
 
 Instructions
