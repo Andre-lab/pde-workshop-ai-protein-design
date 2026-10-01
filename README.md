@@ -1,4 +1,4 @@
-# AI for Protein Design Workshop
+# AI for Protein Design Workshop: Day 1
 
 Hands-on workshop materials for the 2nd Symposium on Protein Design and Engineering (SPDE) pre-event workshop "AI for Protein Design", held October 5--6, 2026 at CNPEM, Campinas, Brazil.
 
