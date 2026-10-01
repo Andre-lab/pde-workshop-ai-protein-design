@@ -1,6 +1,3 @@
-# pde-workshop-ai-protein-design
-Material for workshop on ai protein
-
 ## Overview
 
 This workshop guides the participants through the use of pyrosetta to filter and evaluate protein designed by AI-driven protein design. The goals is to show how physics-based methods can be used in a enzyme design pipeline.
